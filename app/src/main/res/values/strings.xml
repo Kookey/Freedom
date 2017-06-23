@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Freedom</string>
+    <string name="format_string" formatted="false">%s你好%s</string>
+    <string name="webview_case_main">WebView演示</string>
+    <string name="js_show_case">演示js脚本执行</string>
+    <string name="webview_load_case">演示url加载</string>
+</resources>
